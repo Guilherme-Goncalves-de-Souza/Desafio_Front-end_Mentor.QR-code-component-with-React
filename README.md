@@ -28,5 +28,5 @@ Desktop design:            |
   
   <br><br>
 
-  ## <a href = ""> Veja o projeto aqui. </a>
+  ## <a href = "https://qr-code-component-com-react-e-tailwindcss.vercel.app/"> Veja o projeto aqui. </a>
 </div>
