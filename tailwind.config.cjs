@@ -11,11 +11,16 @@ module.exports = {
       },
 
       fontSize: {
-        xl: '22.2px',
+        xl: '22px',
       },
 
       colors: {
         black: '#28354d',
+        gray: 'hsl(220, 15%, 55%)',
+      },
+
+      spacing: {
+        '500': '500px',
       }
     },
   },
